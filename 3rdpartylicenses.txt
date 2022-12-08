@@ -157,6 +157,9 @@ SOFTWARE.
 
 
 
+@ngx-translate/core
+MIT
+
 @terraformer/spatial
 MIT
 Copyright (c) 2013-2019 Environmental Systems Research Institute, Inc
@@ -1367,6 +1370,9 @@ ng2-smart-table
 MIT
 
 ngx-autosize-input
+MIT
+
+ngx-flag-picker
 MIT
 
 pace-js
